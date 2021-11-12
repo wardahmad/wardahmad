@@ -1,6 +1,6 @@
 ### Hi there 👋 
 <p align="center">
-  <img src="./GitHub-logo.gif" width=200>
+  <img src="./yogocat_animation.gif" width=300>
 </p>
 
 - 🌱 I’m currently learning ... Software Development
