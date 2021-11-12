@@ -1,4 +1,4 @@
-### Hi there 👋 Here is what i'm working on
+### Hi there 👋 
 
 - 🌱 I’m currently learning ... Software Development
 - 💬 Ask me about ... JavaScript - Python
