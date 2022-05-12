@@ -1,8 +1,8 @@
-### Hi there 👋 
+### Hi there 👋 I'm Wardah AlMalki
+
 <p align="center">
-  <img src="./yogocat_animation.gif" width=300>
+  <img src="./yogocat_animation.gif" width=200>
 </p>
 
 - 🌱 I’m currently learning ... Software Development
-- 💬 Ask me about ... JavaScript - Python
-- 📫 How to reach me ... linkedin : @wardaahmad43
+- 📫 How to reach me ...  via my email whitelight43@hotmail.com
