@@ -5,4 +5,4 @@
 </p>
 
 - 🌱 I’m currently learning ... Software Development
-- 📫 How to reach me ...  via my email whitelight43@hotmail.com
+- 📫 How to reach me ...  wardah.almalki99@gmail.com
