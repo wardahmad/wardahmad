@@ -4,5 +4,5 @@
   <img src="./yogocat_animation.gif" width=200>
 </p>
 
-- 🌐 https://wardahmad.github.io/
+- 🌐 <a href="https://wardahmad.github.io/" target="_blank">Visit My Portfolio</a>
 - 📫 How to reach me ...  wardah.almalki99@gmail.com
